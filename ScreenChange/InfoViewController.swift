@@ -23,8 +23,5 @@ class InfoViewController: UIViewController {
         
         InfoNamesLabel.text = nameText
         InfoColorTextField.text = colorText
-        
     }
-    
-
 }

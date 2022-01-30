@@ -23,7 +23,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
         colorTableView.delegate = self
         colorTableView.dataSource = self
-        
     }
 
     // UITableViewDataSource
@@ -59,9 +58,4 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
         self.present(infoVC, animated: true, completion: nil)
     }
-    
-    
-    
-    
 }
-

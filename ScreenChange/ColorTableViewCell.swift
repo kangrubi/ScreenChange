@@ -13,5 +13,4 @@ class ColorTableViewCell: UITableViewCell {
     @IBOutlet weak var colorKoName: UILabel!
     @IBOutlet weak var colorEnName: UILabel!
     @IBOutlet weak var colorNumber: UILabel!
-    
 }
