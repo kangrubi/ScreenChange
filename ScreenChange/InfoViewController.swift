@@ -9,7 +9,7 @@ import UIKit
 
 class InfoViewController: UIViewController {
     
-    // propertes
+    // properties
     var nameText: String?
     var colorText: String?
     

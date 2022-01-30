@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
-    // propertes
+    // properties
     var koNameArray: [String] = ["빨강", "주황", "노랑", "초록", "파랑", "남색", "보라색", "연두", "회색", "검정"]
     var enNameArray: [String] = ["red", "orange", "yellow", "green", "blue", "green", "purple", "lightGreen", "grey", "black"]
     var colorNumArray: [String] = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
